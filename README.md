@@ -2,7 +2,7 @@
 
 # 📥 Download Files via Commit Message
 
-A GitHub Actions wo,rkflow that lets you download files into your repository just by writing a special commit message — no terminal or command line needed.
+A GitHub Actions wo,mkflow that lets you download files into your repository just by writing a special commit message — no terminal or command line needed.
 
 ---
 
