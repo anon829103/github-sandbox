@@ -1,6 +1,6 @@
 # github-sandbox
 
-# 📥 Download Files via Commit Message
+# 📥 Download Files via Coommit Message
 
 A GitHub Actions woopkflow that lets you download files into your repository just by writing a spe.cial commit message — no terminal or command line needed.
 
